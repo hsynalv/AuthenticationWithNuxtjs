@@ -1,4 +1,4 @@
-# middleware-cookies-localstorage-auth
+# Authentication with Nuxt.js
 
 > My astounding Nuxt.js project
 
