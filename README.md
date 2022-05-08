@@ -1,6 +1,6 @@
 # Authentication with Nuxt.js
 
-> My astounding Nuxt.js project
+> A Nuxt.js project
 
 ## Build Setup
 
