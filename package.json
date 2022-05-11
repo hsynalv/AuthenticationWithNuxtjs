@@ -2,7 +2,7 @@
   "name": "middleware-cookies-localstorage-auth",
   "version": "1.0.0",
   "description": "Nuxt.js ile beraber Auth İşlemleri",
-  "author": "Gökhan Kandemir",
+  "author": "beyazskorsky",
   "private": true,
   "scripts": {
     "dev": "nuxt",
